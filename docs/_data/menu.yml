@@ -7,10 +7,10 @@
     - name: Registro
       link: /reg.html
       items:
+        - name: Documento de Diseño
+          link: /design.html
         - name: Memoria
           link: /memoria.html
-        - name: Progreso semanal
-          link: /prog.html
     - name: Historia
       link: /historia.html
     - name: ¿Quiénes somos?
