@@ -15,7 +15,7 @@ Estilo artístico: Retro/Pixelado
 
 Un doctor/anticuerpo se alza de valor y con una jeringuilla decide salir a combatir los virus para salvar la raza humana.
 
-Características del protagonista: 
+#### Características del protagonista: 
 
 Se trata de un médico/anticuerpo que ataca a distancia con una jeringuilla y que más tarde desbloqueará un arma cuerpo a cuerpo, el bisturí. 
 
