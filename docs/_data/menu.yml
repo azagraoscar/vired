@@ -1,0 +1,17 @@
+- label: Menu
+  items:
+    - name: Inicio
+      link: /inicio/
+    - name: Documentación
+      link: /doc/
+    - name: Registro
+      link: /reg/
+      items:
+        - name: Memoria
+          link: /memoria/
+        - name: Progreso semanal
+          link: /prog/
+    - name: Historia
+      link: /historia/
+    - name: ¿Quiénes somos?
+      link: /info/
