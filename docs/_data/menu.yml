@@ -4,8 +4,6 @@
       link: /inicio.html
     - name: Documentación
       link: /doc.html
-    - name: Registro
-      link: /reg.html
       items:
         - name: Documento de Diseño
           link: /design.html

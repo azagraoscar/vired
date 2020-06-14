@@ -42,47 +42,84 @@ Se seleccionó toda la música del juego
  * Segunda planta:  Mejora de jeringuilla (Jeringuilla más fina y larga, de otro color… La cadencia de proyectiles es mayor, y hacen más daño)
  * Tercera planta: Escalpelo eléctrico (La hoja ahora es rojiza y hace más daño)
 #### Diseño
-Se arreglaron errores de los mapas
-Se crearon tanto la planta 1 como la 2
-Se crearon el enemigo 1 y el 3
-Se escribió la historia.
+* Se arreglaron errores de los mapas
+* Se crearon tanto la planta 1 como la 2
+* Se crearon el enemigo 1 y el 3
+* Se escribió la historia.
 #### Programación
-Se implementó el primer mapa
-Se implementó el ataque a distancia
+* Se implementó el primer mapa
+* Se implementó el ataque a distancia
 #### Música
-Se decidió cambiar algunas de las canciones para que fuesen más acordes a la temática
+* Se decidió cambiar algunas de las canciones para que fuesen más acordes a la temática
 ### 20 de abril 2020
 #### Diseño
-Se creó la planta 3
-Se crearon las animaciones de movimiento
-Se creó el enemigo 2
+* Se creó la planta 3
+* Se crearon las animaciones de movimiento
+* Se creó el enemigo 2
 #### Programación
-Se implementó el movimiento de los enemigos
-Se realizaron los cambios de pantalla
+* Se implementó el movimiento de los enemigos
+* Se realizaron los cambios de pantalla
 ### 28 de abril 2020
 #### Diseño
-Se crearon las armas y proyectiles
+* Se crearon las armas y proyectiles
 #### Programación
-Se implementó la muerte de los enemigos
-Se implementaron las físicas de paredes.
+* Se implementó la muerte de los enemigos
+* Se implementaron las físicas de paredes.
 #### Música
-Se añadieron las canciones definitivas
+* Se añadieron las canciones definitivas
 ### 2 de mayo 2020
-#### Diseño
 #### Programación
-Se implementaron las oleadas por tiempo
-Se implementó el sistema de muerte
-Se implementó el menú de inicio
-#### Música
+* Se implementaron las oleadas por tiempo
+* Se implementó el sistema de muerte
+* Se implementó el menú de inicio
 ### 6 de mayo 2020
 #### Diseño
+* Se creó el Sprite del Boss final y de la bomba desinfectante
+* Se creo el mapa del boss final
+* Se creó el Sprite del tendero
+* Se crearon los diseños de los powerUps
 #### Programación
-#### Música
+* Se implementó el sistema de activación de oleadas
+* Se creo la animación del personaje
+* Se implementaron los powerUps
 ### 13 de mayo 2020
 #### Diseño
+* Se perfeccionó el Sprite del Boss final
+* Se modificaron los diseños de los powerUps
+* Se arreglaron fallos de algunos mapas
+* Se retocó el Sprite del tendero
 #### Programación
-#### Música
+* Se implementó la tienda
+* Se implementaron el sistema de dinero, con la posibilidad de que los enemigos suelten monedas
+* Se implementó el boss final y su patrón de ataques
+* Se implementó la música
+![](/images/boss.png)
 ### 22 de mayo 2020
 #### Diseño
+* Se crearon los Sprites de las botas y la vida extra
 #### Programación
+* Se implementaron los objetos Botas y Vida Extra
 #### Música
+* Se editó la música para reducir su volumen
+### 29 de mayo 2020
+### Diseño
+* Se realizaron los diseños de las pantallas de inicio, muerte y pausa
+### Programación
+* Se implementó un menú de pausa
+* Se añadió un diálogo al tendero
+* Se añadió una barra de vida dinámica al boss final
+* Se implementaron las tiendas en todos los pisos
+### 5 de junio 2020
+### Diseño
+* Se rediseñó la barra de vida para que tuviese varios colores dependiendo la vida que le falte al boss
+### Programación
+* Se arreglaron diversos bugs
+* Se implementó la mecánica de que los objetos que suelten los enemigos desaparezcan al poco tiempo, para que así se obligue al jugador a moverse
+rápidamente
+### 5 de junio 2020
+### Programación
+* Se arreglaron problemas con la música
+* Fase de pruebas
+### 12 de junio 2020
+### Programación / Testeo
+* Se ajustaron algunos parámetros del juego para mejorar la experiencia
